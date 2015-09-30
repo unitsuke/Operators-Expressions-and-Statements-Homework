@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.exe.config
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.exe
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\bin\Debug\Problem_11.Bitwise_Extract_Bit_3.pdb
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\obj\Debug\Problem 11. Bitwise Extract Bit 3.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\obj\Debug\Problem_11.Bitwise_Extract_Bit_3.exe
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 11. Bitwise Extract Bit 3\obj\Debug\Problem_11.Bitwise_Extract_Bit_3.pdb

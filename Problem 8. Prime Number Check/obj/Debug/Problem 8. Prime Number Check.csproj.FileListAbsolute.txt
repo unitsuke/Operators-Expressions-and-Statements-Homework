@@ -1,0 +1,6 @@
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe.config
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\bin\Debug\Problem_8.Prime_Number_Check.pdb
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\obj\Debug\Problem 8. Prime Number Check.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.exe
+C:\Users\pc\Desktop\softuni\Лекция 5\Operators-Expressions-and-Statements-Homework\Problem 8. Prime Number Check\obj\Debug\Problem_8.Prime_Number_Check.pdb
